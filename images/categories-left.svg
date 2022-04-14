@@ -1,0 +1,141 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152" height="545" viewBox="0 0 152 545">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke: #fe3e57;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        stroke: #34c3ff;
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        fill: #34c3ff;
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        fill: #5800e4;
+        filter: url(#filter-4);
+      }
+
+      .cls-5, .cls-6 {
+        fill: #ffb534;
+      }
+
+      .cls-5 {
+        filter: url(#filter-5);
+      }
+
+      .cls-6 {
+        filter: url(#filter-6);
+      }
+
+      .cls-7 {
+        fill: #fe3e57;
+        filter: url(#filter-7);
+      }
+    </style>
+    <filter id="filter" x="85" y="1361" width="37" height="38" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#fe3e57" flood-opacity="0.4"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="75" y="394" width="18" height="18" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#34c3ff" flood-opacity="0.4"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="53" y="1274" width="19" height="19" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#34c3ff" flood-opacity="0.4"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="49" y="1466" width="18" height="18" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#5800e4" flood-opacity="0.4"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="177" y="1513" width="19" height="19" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#ffb534" flood-opacity="0.4"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="182" y="1225" width="19" height="20" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#ffb534" flood-opacity="0.4"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="72" y="1750" width="18" height="20" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#fe3e57" flood-opacity="0.4"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-49 -1225)" style="fill: none; filter: url(#filter)">
+    <path id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-1" d="M103.328,1362.94a13.846,13.846,0,1,1-13.453,13.84A13.653,13.653,0,0,1,103.328,1362.94Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-49 -1225)" xlink:href="#Ellipse_1_copy" style="stroke: #fe3e57; filter: none; fill: none"/>
+  <g style="fill: none; filter: url(#filter-2)">
+    <circle id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-2" cx="83.281" cy="399.425" r="4.219" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#Ellipse_2_copy" style="stroke: #34c3ff; filter: none; fill: none"/>
+  <path id="Shape_3_copy" data-name="Shape 3 copy" class="cls-3" d="M63.041,1280.16l2.914,3.05a0.976,0.976,0,0,1,0,1.34,0.868,0.868,0,0,1-1.286,0l-2.914-3.04-2.914,3.04a0.868,0.868,0,0,1-1.286,0h0a0.976,0.976,0,0,1,0-1.34l2.914-3.05-2.914-3.04a0.988,0.988,0,0,1,0-1.35h0a0.884,0.884,0,0,1,1.286,0l2.914,3.05,2.914-3.05a0.884,0.884,0,0,1,1.286,0h0a0.988,0.988,0,0,1,0,1.35Z" transform="translate(-49 -1225)"/>
+  <path id="Rectangle_519_copy" data-name="Rectangle 519 copy" class="cls-4" d="M57.613,1475.81l-4.344-4.35,4.344-4.36,4.344,4.36Z" transform="translate(-49 -1225)"/>
+  <path id="Shape_3_copy_4" data-name="Shape 3 copy 4" class="cls-5" d="M187.473,1519.2l2.914,3.05a0.974,0.974,0,0,1,0,1.34,0.868,0.868,0,0,1-1.286,0l-2.914-3.04-2.915,3.04a0.868,0.868,0,0,1-1.286,0h0a0.976,0.976,0,0,1,0-1.34l2.914-3.05-2.914-3.04a0.989,0.989,0,0,1,0-1.35h0a0.884,0.884,0,0,1,1.286,0l2.915,3.05,2.914-3.05a0.884,0.884,0,0,1,1.286,0h0a0.987,0.987,0,0,1,0,1.35Z" transform="translate(-49 -1225)"/>
+  <path id="Shape_3_copy_5" data-name="Shape 3 copy 5" class="cls-6" d="M192.464,1231.39l2.915,3.05a0.976,0.976,0,0,1,0,1.34,0.885,0.885,0,0,1-1.287,0l-2.914-3.04-2.914,3.04a0.885,0.885,0,0,1-1.287,0h0a0.976,0.976,0,0,1,0-1.34l2.914-3.05-2.914-3.04a0.989,0.989,0,0,1,0-1.35h0a0.885,0.885,0,0,1,1.287,0l2.914,3.05,2.914-3.05a0.885,0.885,0,0,1,1.287,0h0a0.989,0.989,0,0,1,0,1.35Z" transform="translate(-49 -1225)"/>
+  <path id="Shape_3_copy_4-2" data-name="Shape 3 copy 4" class="cls-7" d="M81.742,1756.59l2.914,3.05a0.976,0.976,0,0,1,0,1.34,0.869,0.869,0,0,1-1.287,0l-2.914-3.04-2.914,3.04a0.868,0.868,0,0,1-1.286,0h0a0.976,0.976,0,0,1,0-1.34l2.914-3.05-2.914-3.04a0.988,0.988,0,0,1,0-1.35h0a0.884,0.884,0,0,1,1.286,0l2.914,3.05,2.914-3.05a0.884,0.884,0,0,1,1.287,0h0a0.988,0.988,0,0,1,0,1.35Z" transform="translate(-49 -1225)"/>
+</svg>
